@@ -19,3 +19,5 @@ Blender 4.x Project File:
 ![XC2055](https://github.com/jaarnio/bs-player-3d-models/assets/46546462/036cd164-f169-42cd-8a5b-e5859ce69e64)
 
 ![XC4055](https://github.com/jaarnio/bs-player-3d-models/assets/46546462/05ff57a7-c127-4e64-8c7e-fe6410fb95af)
+
+![XT1144](https://github.com/jaarnio/bs-player-3d-models/assets/46546462/0fbbb9be-b3bb-4592-b711-a2b886abcf0f)
