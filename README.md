@@ -5,9 +5,10 @@ BrightSign player 3d Models
 Hand modeled in Blender using quad topology and sub-d. Players consist of outer chassis, connection ports and labels as geometry. Uses PBR materials for Cycles, so if you need to import OBJ to other platform you may need to rebuild materials.
 
 OBJ format:
-[OneDrive] (https://brightsigninfo-my.sharepoint.com/:f:/g/personal/jaarnio_brightsign_biz/EiU8bMeRH8dJo0Wckv96QQkB6p7EhQ1gIvsmMoU0Xlq6NA?e=MMcMm3)
+[OneDrive](https://brightsigninfo-my.sharepoint.com/:f:/g/personal/jaarnio_brightsign_biz/EiU8bMeRH8dJo0Wckv96QQkB6p7EhQ1gIvsmMoU0Xlq6NA?e=MMcMm3)
 
-Also includes a Blender 4.x project file with one collection per player.
+Blender 4.x Project File:
+[OneDrive](https://brightsigninfo-my.sharepoint.com/:f:/g/personal/jaarnio_brightsign_biz/Eo11r0ylwA5AkyenzAY2zq0BQ7RqM4hJAEvYMLMjoqJL-w?e=U8g5U1)
 
 ![LS445](https://github.com/jaarnio/bs-player-3d-models/assets/46546462/a380beeb-ab54-4040-8393-8c029aafa428)
 
